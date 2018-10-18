@@ -1,2 +1,2 @@
 hello world
-modifie file_2
+modify file_2
