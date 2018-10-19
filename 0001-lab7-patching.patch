@@ -1,0 +1,19 @@
+From 7ea96782737fc10caf1c76146a2523db8be02225 Mon Sep 17 00:00:00 2001
+From: gnizar <ngrabaa@itemis.com>
+Date: Fri, 19 Oct 2018 14:50:56 +0100
+Subject: [PATCH] lab7 patching
+
+---
+ Users/Nizar/file_1.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Users/Nizar/file_1.txt b/Users/Nizar/file_1.txt
+index f1adef6..44604f5 100644
+--- a/Users/Nizar/file_1.txt
++++ b/Users/Nizar/file_1.txt
+@@ -1 +1 @@
+-nothing here
++always here
+-- 
+2.17.0.windows.1
+

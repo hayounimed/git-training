@@ -1,0 +1,7 @@
+diff --git a/Users/Nizar/file_1.txt b/Users/Nizar/file_1.txt
+index f1adef6..44604f5 100644
+--- a/Users/Nizar/file_1.txt
++++ b/Users/Nizar/file_1.txt
+@@ -1 +1 @@
+-nothing here
++always here
